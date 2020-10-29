@@ -1,5 +1,3 @@
-Použil som CSS Grid system aj Flexbox, aj keď by som to asi nemal kombinovať. Jednak som to chcel prvý krát naplno vyskúšať na nejakom zadaní, ale podla toho čo som pozeral, podpora je už dosť solídna. Velký projekt by som ale robil s Flex gridom.
-
 Nezaviedol som žiadny grid systém, pretože som považoval za nevhodné pridávať celý CSS Grid alebo Flexbox pre túto template sjedným elementom. 
 
 Viem že som nemal použiť framework ale myslím že jQuery je v pohode, keď sa bežne používa s Bootstrapom...Pre niekoho je to framework pre niekoho library.
